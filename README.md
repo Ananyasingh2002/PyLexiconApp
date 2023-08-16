@@ -19,7 +19,7 @@ PyLexiconApp is a simple dictionary application written in Python using the tkin
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com//PyLexiconApp.git
+    https://github.com/Ananyasingh2002/PyLexiconApp.git
     ```
 
 2. Open a terminal and navigate to the project directory:
@@ -31,7 +31,7 @@ PyLexiconApp is a simple dictionary application written in Python using the tkin
 3. Run the application:
 
     ```bash
-    python main.py
+    python dictionary.py
     ```
 
 4. The application GUI will open, allowing you to interact with the different functions.
@@ -39,10 +39,6 @@ PyLexiconApp is a simple dictionary application written in Python using the tkin
 ## Screenshots
 
 _Insert screenshots of your application's GUI here._
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
