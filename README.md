@@ -1,5 +1,6 @@
 # PyLexiconApp - Python Dictionary Application
 
+![Python Dictionary Application](images/Screenshot-1.png)
 PyLexiconApp is a simple dictionary application written in Python using the tkinter library. It allows users to search for word definitions, add new words and their definitions, display words starting with a specific letter, and get a random "Word of the Day."
 
 ## Features
@@ -38,7 +39,10 @@ PyLexiconApp is a simple dictionary application written in Python using the tkin
 
 ## Screenshots
 
-_Insert screenshots of your application's GUI here._
+![Search word](images/Screenshot-2.png)
+![Add word](images/Screenshot-3.png)
+![Search letter](images/Screenshot-4.png)
+![Word of the day](images/Screenshot-5.png)
 
 ## Acknowledgments
 
